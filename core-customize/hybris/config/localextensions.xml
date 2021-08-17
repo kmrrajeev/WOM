@@ -86,31 +86,7 @@
 		<extension name= 'consignmenttrackingbackoffice' />
 		<extension name= 'configurablebundleaddon' />
 		<extension name= 'consignmenttrackingoccaddon' />
-		<!-- B2C implementation-->
-		<extension name='shopmartcore'/>
-		<extension name='shopmartb2cinitialdata'/>
-		<extension name='shopmartbackoffice'/>
-		<extension name='shopmartfacades'/>
-		<!--<extension name='shopmartfulfilmentprocess'/>-->
-		<!-- cybersource payment intergation -->
-		<extension name='cybersourcepayment' />
-		<extension name='cybersourcepaymentaddon' />
-		<!--<extension name='cybersourceb2bpaymentaddon' />-->
-		<extension name='cybersourceb2cpaymentaddon' />
-		<extension name='cybersourcepaymentsampledata' />
-		<!-- causes problem with two fulfillment process extension -->
-		<!--<extension name='cybersourcefulfilmentprocess'/> -->
-		<extension name='shopmartstorefront'/>
-		<!-- Avalara Tax integration -->
-		<extension name='arvatoAvalaraConnector' />
-		<!-- B2B implementation -->
-		<extension name='shopmartb2binitialdata'/>
-		<extension name='shopmartbusinessstorefront'/>
-		<!-- Curbside addon -->
-		<!--<extension name='curbside'/>
-		<extension name='curbsideaddon'/>-->
-		<!-- Qualtrics addon -->
-		<extension name='sapqualtricsaddon'/>
+		
 
 		<!--SAP SCPI Extension -->
 		<!-- SCPI extension -->
